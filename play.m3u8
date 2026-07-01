@@ -1,6 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD",3Cat Càmeres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-id="Antena3HD.es" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@latest/countries/spain/antena-3-es.png" group-title="Nacionales",Antena 3 HD
+rtp://@239.0.0.186:8208
+#EXTINF:-1 tvg-id="CuatroHD.es" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@latest/countries/spain/cuatro-es.png" group-title="Nacionales",Cuatro HD
+rtp://@239.0.0.177:8208
+#EXTINF:-1 tvg-id="GOLHD.es" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@latest/countries/spain/gol-es.png" group-title="Nacionales",GOL HD
+rtp://@239.0.5.189:8208
+#EXTINF:-1 tvg-id="La1HD.es" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@latest/countries/spain/tve-1-es.png" group-title="Nacionales",La 1 HD
+rtp://@239.0.5.145:8208
+#EXTINF:-1 tvg-id="La2HD.es" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@latest/countries/spain/tve-2-es.png" group-title="Nacionales",La 2 HD
+rtp://@239.0.0.183:8208
+#EXTINF:-1 tvg-id="laSextaHD.es" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@latest/countries/spain/lasexta-es.png" group-title="Nacionales",laSexta HD
+rtp://@239.0.0.187:8208
+#EXTINF:-1 tvg-id="Tele5HD.es" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@latest/countries/spain/telecinco-es.png" group-title="Nacionales",Tele 5 HD
+rtp://@239.0.0.176:8208
 #EXTINF:-1 tvg-id="3CatElbunquer.es@SD",3Cat El búnquer (1080p)
 https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
 #EXTINF:-1 tvg-id="3CatExclusiu1.es@SD",3Cat Exclusiu 1 (1080p) [Geo-blocked]
